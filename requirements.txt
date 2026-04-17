@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+
+requests
+httpx
+
+ultralytics
+
+pillow
